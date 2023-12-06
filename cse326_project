@@ -1,0 +1,251 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<script src="https://kit.fontawesome.com/yourcode.js" crossorigin="anonymous"></script>
+
+    <link rel="stylesheet" href="style.css">
+    <title>pet adoption website PetsHUB</title>     
+</head>
+<body>
+ 
+    <div class="hero" id="home">
+      
+        <nav>
+        
+        
+        
+    
+      <ul>
+      <li>  <a class="logo">Pets<span>HUB</span></a></li>
+          <center> <li><a class="active" href="#home"><i class="fa fa-fw fa-home" style="color:black;"></i>Home</a></li>
+            
+            <li><a href="#About">About</a></li>
+            <li><a href="#Pets">Our Pets</a></li>  
+            <li><a href="#contact"><i class="fa fa-fw fa-envelope" style="color: black;"></i> Contact</a></li>
+            <li><a class="login"  href="login.html"><i class="fa fa-fw fa-user"  style="color:black;"></i> Login</a></li>
+                                                                          
+       </ul> </center>
+        </nav>
+    </div>
+    
+    <div >
+  <h1>Adopt a PET treat like your family</h1>
+        <center>
+            <img src="https://www.fetchpetcare.com/wp-content/uploads/2016/11/dreamstime_xxl_87694876-1024x293.jpg" alt="classic car image" width="1500px">
+        </center>
+ 
+    </div>
+  <pre>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </pre>
+      <div id="Pets">
+        <pre>
+
+
+
+
+        </pre>
+      <center> <header><h1>OUR PETS -To Adopt</h1></header></center>
+      <body>
+        
+          <section>
+             
+      
+<div class="Pet-container">
+<div class="Pet-card">
+ <img class="Pet-image" src="https://i.pinimg.com/474x/ae/29/01/ae29016915af47233e6c3f13918b3189.jpg" alt="Pet 1">
+  <div class="Pet-name">Breed:Labrator Dog</br>Age:3 month</div>
+                  
+  <br>
+  <a class="button" href="project.htm"type="button">Adopt now</a>
+  </div>
+ <div class="Pet-card">
+ <img class="Pet-image" src="https://animalcorner.org/wp-content/uploads/2022/10/Baby-Pig-Facts-6049382.png" alt="Pet 2">
+ <div class="Pet-name">Breed:Maltese</br>Age:2 month</div>
+           
+  <br>
+  <a class="button" href="project.htm"type="button">Adopt now</a>
+ </div>
+<div class="Pet-card">
+<img class="Pet-image" src="https://hips.hearstapps.com/hmg-prod/images/rabbit-breeds-american-white-1553635287.jpg?crop=0.976xw:0.651xh;0.0242xw,0.291xh&resize=980:*" alt="Pet 3">
+<div class="Pet-name">Breed:American Rabbit</br>Age:3 month</div>
+        
+<br>
+<a class="button" href="project.htm"type="button">Adopt now</a>
+ </div>
+<div class="Pet-card">
+<img class="Pet-image" src="https://i.pinimg.com/736x/1c/e5/a9/1ce5a91666bec7a08f0dda1c1b94f15f.jpg" alt="Pet 4">
+<div class="Pet-name">Breed:Seames Cat</br>Age:5 month</div>
+                      
+<br>
+<a class="button" href="project.htm"type="button">Adopt now</a>
+ </div>
+ <div class="Pet-card">
+<img class="Pet-image" src="https://t4.ftcdn.net/jpg/01/99/00/79/360_F_199007925_NolyRdRrdYqUAGdVZV38P4WX8pYfBaRP.jpg"alt="Pet 5">
+<div class="Pet-name">Breed:German Dog</br>Age:2 month</div>
+                    
+<br>
+<a class="button" href="project.htm"type="button">Adopt now</a>
+ </div>
+                 
+<div class="Pet-card">
+ <img class="Pet-image" src="https://www.treehugger.com/thmb/F5G8zaALRp7rvgWqDVT13t9pKY8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/close-up-of-scarlet-macaw-flying-in-mid-air-634869043-f360b379b8c44a28a052b41d99adc2a7.jpg" alt="Pet 6">
+<div class="Pet-name">Breed:Moccow</br>Age:5 month</div>
+ <br>
+
+ <a class="button" href="project.htm"type="button">Adopt now</a>
+</div>
+  <div class="Pet-card">
+ <img class="Pet-image" src="https://img.staticmb.com/mbcontent/images/uploads/2022/12/Feng-shui-fish-acquarium.jpg" alt="Pet 7">
+<div class="Pet-name">Breed:Betta</br>Age:2 month </div>
+                     
+   <br>
+   <a class="button" href="project.htm"type="button">Adopt now</a>
+ </div>
+ <div class="Pet-card">
+ <img class="Pet-image" src="https://t4.ftcdn.net/jpg/05/63/10/85/360_F_563108522_EwQ2fsv99SXcrqUZvkvYgwlg7COOn8tp.jpg" alt="Pet 8">
+  <div class="Pet-name">Breed:Persian Cat</br>Age:2 month</div>
+                   
+  <br>
+  <a class="button" href="project.htm"type="button">Adopt now</a>
+ </div>
+  <div class="Pet-card">
+  <img class="Pet-image" src="https://www.pets.ch/race/image/1209" alt="Pet 9">
+  <div class="Pet-name">Breed:Sokoke</br>Age:5 month</div>
+               
+                      
+  <br>
+  <a class="button" href="project.htm"type="button">Adopt now</a>
+ </div>
+  <div class="Pet-card">
+  <img class="Pet-image" src="https://i.pinimg.com/564x/39/50/4b/39504b1d7d62c958ecd5836ccf6f7c38.jpg" alt="Pet 10">
+<div class="Pet-name">Breed:French Bull Dog</br>Age:4 month</div>
+                      
+ <br>
+<a class="button" href="project.htm"type="button">Adopt now</a>
+ </div>
+  </div>
+</section>
+
+
+
+
+
+ <section>
+  <pre>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </pre>
+  <div id="About"></div>
+  <pre>
+
+
+
+
+  </pre>
+  <body>
+  <header>
+  <h1>About Us - Pets Hub</h2>
+</header>
+                   
+  <section>
+  <h2>Our Story</h2>
+ <p>Welcome to Pets Hub, here we are ready to sell the pets who love them and treat them like a family our main theme is to give a family to pets which deserve love, protection and care.</p>
+                  
+  <section>
+<h2>Our Mission</h2>
+ <p>At Pets hub, our main motive is to provide a lovely atmosphere to  pets which are deserve of love, and affection and our job is to satisfy our customer.</br> and we give them great experience and guidance to treat the pets according to they behaviour.</p>
+             </section>
+               
+         
+               
+                <strong>Promote Adoption:</strong> Encourage the adoption of homeless pets as the first choice, providing a second chance for these animals.<br>
+                  <strong>Advocate Responsible Pet Ownership:</strong> Educate and support pet owners in providing a loving, safe, and nurturing environment for their pets.<br>
+                  <strong>Facilitate Connections:</strong> Create a seamless platform where prospective adopters can easily find and connect with their perfect pet companion.<br>
+                  <strong>Support Community:</strong> Collaborate with shelters, rescue groups, and volunteers to build a compassionate and supportive community for animals in need.<br>
+                  <strong>Empower Change:</strong> Inspire individuals to make a difference in the lives of animals, fostering a culture of empathy and compassion.     <br>
+                   
+       <section>
+        <pre>
+
+
+
+
+        </pre>
+        <div id="contact">
+          <pre>
+
+
+
+
+
+
+
+
+
+
+
+
+          </pre>
+  <header><h2>Contact Us</h2></header>
+  
+  <p>If you have any questions, feedback, or need assistance, feel free to <a href="contact.html">contact us</a>. We're here to help!</p>
+   <p>Email: <a href="mailto:info@petadoption.com">info@petadoption.com</a></p>
+    <p>Phone: +1 (123) 456-7890</p>
+   <p>Address: 123 Main St, City, State, Zip</p>  </section>
+</div>
+</div>
+<pre>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</pre>
+</div>
+      </body>
+ </html>
